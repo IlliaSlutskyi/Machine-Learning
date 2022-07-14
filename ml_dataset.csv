@@ -1,0 +1,190 @@
+state;life_expectancy;education_index
+Norway;82.4;0.93
+Ireland;82.3;0.922
+Switzerland;83.8;0.9
+Iceland;83;0.926
+Hong Kong, China (SAR);84.9;0.88
+Germany;81.3;0.943
+Sweden;82.8;0.918
+Netherlands;82.3;0.914
+Australia;83.4;0.924
+Denmark;80.9;0.92
+Finland;81.9;0.927
+Singapore;83.6;0.924
+United Kingdom;81.3;0.928
+Belgium;81.6;0.902
+New Zealand;82.3;0.926
+Canada;82.4;0.894
+United States;78.9;0.9
+Austria;81.5;0.865
+Liechtenstein;80.7;0.832
+Israel;83;0.883
+Japan;84.6;0.851
+Slovenia;81.3;0.91
+Luxembourg;82.3;0.806
+Korea (Republic of);83;0.865
+Spain;83.6;0.831
+France;82.7;0.817
+Czechia;79.4;0.89
+Malta;82.5;0.825
+Estonia;78.8;0.882
+Italy;83.5;0.793
+United Arab Emirates;78;0.802
+Greece;82.2;0.849
+Cyprus;81;0.827
+Lithuania;75.9;0.898
+Poland;78.7;0.869
+Andorra;81.9;0.72
+Latvia;75.3;0.883
+Portugal;82.1;0.768
+Slovakia;77.5;0.826
+Saudi Arabia;75.1;0.789
+Hungary;76.9;0.821
+Bahrain;77.3;0.769
+Croatia;78.5;0.805
+Chile;80.2;0.81
+Qatar;80.2;0.659
+Argentina;76.7;0.855
+Brunei Darussalam;75.9;0.702
+Montenegro;76.9;0.803
+Romania;76.1;0.765
+Palau;73.9;0.855
+Kazakhstan;73.6;0.83
+Russian Federation;72.6;0.823
+Belarus;74.8;0.838
+Turkey;77.7;0.731
+Uruguay;77.9;0.765
+Bulgaria;75.1;0.779
+Panama;78.5;0.7
+Bahamas;73.9;0.74
+Barbados;79.2;0.782
+Oman;77.9;0.718
+Georgia;73.8;0.862
+Malaysia;76.2;0.726
+Costa Rica;80.3;0.726
+Kuwait;75.5;0.638
+Serbia;76;0.783
+Mauritius;75;0.736
+Seychelles;73.4;0.726
+Trinidad and Tobago;73.5;0.728
+Albania;78.6;0.746
+Iran (Islamic Republic of);76.7;0.756
+Cuba;78.8;0.79
+Sri Lanka;77;0.746
+Bosnia and Herzegovina;77.4;0.711
+Ukraine;72.1;0.799
+Grenada;72.4;0.77
+Saint Kitts and Nevis;74.8;0.673
+Mexico;75.1;0.703
+Antigua and Barbuda;77;0.665
+Peru;76.7;0.74
+Thailand;77.2;0.682
+Armenia;75.1;0.74
+North Macedonia;75.8;0.704
+Colombia;77.3;0.682
+Brazil;75.9;0.694
+China;76.9;0.937
+Saint Lucia;76.2;0.672
+Ecuador;77;0.702
+Azerbaijan;73;0.711
+Dominican Republic;74.1;0.666
+Moldova (Republic of);71.9;0.711
+Algeria;76.9;0.672
+Lebanon;78.9;0.604
+Fiji;67.4;0.764
+Dominica;78.2;0.632
+Tunisia;76.7;0.661
+Maldives;78.9;0.573
+Suriname;71.7;0.675
+Saint Vincent and the Grenadines;72.5;0.684
+Mongolia;69.9;0.736
+Botswana;69.6;0.676
+Jamaica;74.5;0.689
+Jordan;74.5;0.667
+Paraguay;74.3;0.638
+Tonga;70.9;0.775
+Libya;72.9;0.61
+Uzbekistan;71.7;0.729
+Philippines;71.2;0.678
+Bolivia (Plurinational State of);71.5;0.695
+Indonesia;71.7;0.65
+Belize;74.6;0.695
+Turkmenistan;68.2;0.653
+Samoa;73.3;0.713
+Venezuela (Bolivarian Republic of);72.1;0.7
+South Africa;64.1;0.724
+Palestine, State of;74.1;0.678
+Egypt;72;0.618
+Marshall Islands;74.1;0.707
+Viet Nam;75.4;0.63
+Gabon;66.5;0.65
+Kyrgyzstan;71.5;0.73
+Morocco;76.7;0.569
+Guyana;69.9;0.601
+Iraq;70.6;0.557
+El Salvador;73.3;0.555
+Tajikistan;71.1;0.682
+Cabo Verde;73;0.562
+Guatemala;74.3;0.519
+Nicaragua;74.5;0.573
+Bhutan;71.8;0.496
+Namibia;63.7;0.584
+India;69.7;0.555
+Honduras;75.3;0.499
+Bangladesh;72.6;0.529
+Kiribati;68.4;0.594
+Sao Tome and Principe;70.4;0.567
+Micronesia (Federated States of);67.9;0.581
+Lao People's Democratic Republic;67.9;0.481
+Eswatini (Kingdom of);60.2;0.557
+Ghana;64.1;0.563
+Vanuatu;70.5;0.561
+Timor-Leste;69.5;0.51
+Nepal;70.8;0.521
+Kenya;66.7;0.534
+Cambodia;69.8;0.484
+Equatorial Guinea;58.7;0.467
+Zambia;63.9;0.557
+Myanmar;67.1;0.464
+Angola;61.2;0.5
+Congo;64.6;0.543
+Zimbabwe;61.5;0.587
+Syrian Arab Republic;72.7;0.416
+Solomon Islands;73;0.474
+Cameroon;59.3;0.547
+Pakistan;67.3;0.402
+Papua New Guinea;64.5;0.439
+Comoros;64.3;0.482
+Mauritania;64.9;0.396
+Benin;61.8;0.478
+Uganda;63.4;0.523
+Rwanda;69;0.458
+Nigeria;54.7;0.499
+Côte d'Ivoire;57.8;0.453
+Tanzania (United Republic of);65.5;0.429
+Madagascar;67;0.486
+Lesotho;54.3;0.532
+Djibouti;67.1;0.325
+Togo;61;0.517
+Senegal;67.9;0.345
+Afghanistan;64.8;0.414
+Haiti;64;0.456
+Sudan;65.3;0.345
+Gambia;62.1;0.406
+Ethiopia;66.6;0.341
+Malawi;64.3;0.47
+Guinea-Bissau;58.3;0.414
+Congo (Democratic Republic of the);60.7;0.496
+Liberia;64.1;0.426
+Guinea;61.6;0.354
+Yemen;66.1;0.35
+Eritrea;66.3;0.269
+Mozambique;60.9;0.395
+Sierra Leone;54.7;0.406
+Burkina Faso;61.6;0.312
+Mali;59.3;0.286
+South Sudan;57.9;0.307
+Burundi;61.6;0.417
+Chad;54.2;0.288
+Central African Republic;53.3;0.353
+Niger;62.4;0.249
